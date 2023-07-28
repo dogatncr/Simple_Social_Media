@@ -1,4 +1,4 @@
-A simple social media app with features including user listing, post listing, post detail pages with comments listing, saving and dissaving favorurite posts. 
+A simple social media app with features including user listing, post listing, post detail pages with comments listing, saving and dissaving favourite posts. 
 
 jsonplaceholder.com services, MVVM architecture, Room local database and navigation components were used.
 
